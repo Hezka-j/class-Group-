@@ -1,0 +1,13 @@
+﻿  class Group Studentss.cpp
+D:\Проекты\class Group Studentss\Student.h(4,15): error C2011: Student: переопределение типа "class"
+D:\Проекты\class Group Studentss\Student.h(4,7): message : см. объявление "Student"
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(13,10): error C2079: "s" использует не имеющую определения структуру class "Student"
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(13,11): error C2440: инициализация: невозможно преобразовать "initializer list" в "int"
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(13,11): message : Инициализатор содержит слишком много элементов
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(18,10): error C2079: "student" использует не имеющую определения структуру class "Student"
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(18,17): error C2440: инициализация: невозможно преобразовать "initializer list" в "int"
+D:\Проекты\class Group Studentss\class Group Studentss.cpp(18,17): message : Инициализатор содержит слишком много элементов
+  Group.cpp
+  Создание кода...
